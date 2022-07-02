@@ -1,9 +1,9 @@
 [
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 71404,
+    "stargazers_count": 71630,
     "open_issues_count": 19,
-    "forks_count": 6123
+    "forks_count": 6128
   },
   {
     "full_name": "brokorus/lilship",
@@ -15,12 +15,12 @@
     "full_name": "brokorus/terraform-azure-keyvault-tfvar-generator",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "theNewDynamic/gohugo-theme-ananke",
-    "stargazers_count": 756,
+    "stargazers_count": 757,
     "open_issues_count": 64,
-    "forks_count": 835
+    "forks_count": 840
   }
 ]
